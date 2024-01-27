@@ -1,0 +1,55 @@
+
+title: Consistent Localization Birth by Sleep Final Mix
+originalAuthor: Superfield
+description: Part of a mod series intended to reduce inconsistencies between the English localizations.
+assets:
+
+- name: arc_en/system/commonGame.arc
+  method: copy
+  source:
+  - name: system/CL_commonGame.arc
+
+- name: arc_en/system/commonGameX.arc
+  method: copy
+  source:
+  - name: system/CL_commonGameX.arc
+
+- name: message/en/system/CT00500.ctd
+  method: copy
+  source:
+  - name: message/CL_CT00500.ctd
+
+- name: message/en/system/CTih000.ctd
+  method: copy
+  source:
+  - name: message/CL_CTih000.ctd
+
+- name: message/en/system/CTit000.ctd
+  method: copy
+  source:
+  - name: message/CL_CTit000.ctd
+
+- name: remastered/arc_en/menu/help0050.arc/US_help0050_arc0.png
+  method: copy
+  source:
+  - name: menu/CL_help0050_arc0.png
+
+- name: remastered/arc_en/menu/help0060.arc/US_help0060_arc1.png
+  method: copy
+  source:
+  - name: menu/CL_help0060_arc1.png
+
+- name: remastered/arc_en/menu/help0103.arc/US_help0103_arc0.png
+  method: copy
+  source:
+  - name: menu/CL_help0103_arc0.png
+
+- name: remastered/arc_en/menu/help0420.arc/US_help0420_arc0.png
+  method: copy
+  source:
+  - name: menu/CL_help0420_arc0.png
+
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc10.png
+  method: copy
+  source:
+  - name: menu/CL_title_txt_arc10.png
