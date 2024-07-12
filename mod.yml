@@ -53,3 +53,18 @@ assets:
   method: copy
   source:
   - name: menu/CL_title_txt_arc10.png
+
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc14.png
+  method: copy
+  source:
+  - name: menu/CL_title_txt_arc10.png
+
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc15.png
+  method: copy
+  source:
+  - name: menu/CL_title_txt_arc10.png
+
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc16.png
+  method: copy
+  source:
+  - name: menu/CL_title_txt_arc10.png
