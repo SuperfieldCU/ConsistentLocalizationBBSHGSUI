@@ -33,27 +33,30 @@ The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and D
 The following is a brief overview of text changes made. This is as exhaustive as I could make it without being overly specific or repetitive:
 
 ### System
-* Resume -> Continue
-  * This is the option to continue when pausing a cutscene
-* Continue -> Load
-  * This is the option on the title screen to open the list of save files
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Resume | Continue | This is the option to continue when pausing a cutscene |
+| Continue | Load | This is the option on the title screen to open the list of save files |
 
 ### Commands
-* Confusion Strike -> Confuse Strike
-* Counter Blast -> Counter Cracker
-  * A tutorial image was altered to account for this change
-* Group Cure -> Friend Cure
-* Group Cura -> Friend Cura
-* Group Curaga -> Friend Curaga
-  * A tutorial image was altered to account for these three changes
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Confusion Strike | Confuse Strike | |
+| Counter Blast | Counter Cracker | A tutorial image was altered to account for this change |
+| Group Cure | Friend Cure | A tutorial image was altered to account for this and the next two changes |
+| Group Cura | Friend Cura | |
+| Group Curaga | Friend Curaga | |
 
 ### Abilities
-* HP Prize Plus -> HP Jackpot
-* Link Prize Plus -> Link Jackpot
-* Zero EXP -> EXP Zero
-* Damage Syphon -> Focus Syphon
-* Munny Plus -> Munny Boost
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| HP Prize Plus | HP Jackpot | |
+| Link Prize Plus | Link Jackpot | |
+| Zero EXP | EXP Zero | |
+| Damage Syphon | Focus Syphon | |
+| Munny Plus | Munny Boost | |
 
 ### Items
-* Shimmering Crystal -> Shiny Crystal
-  * Two turorial images were altered to account for this change
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Shimmering Crystal | Shiny Crystal | Two turorial images were altered to account for this change |
