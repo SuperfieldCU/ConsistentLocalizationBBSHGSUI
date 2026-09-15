@@ -14,6 +14,11 @@ assets:
   source:
   - name: system/CL_commonGameX.arc
 
+- name: message/en/menu/CTmn500.ctd
+  method: copy
+  source:
+  - name: message/CL_CTmn500.ctd
+
 - name: message/en/system/CT00500.ctd
   method: copy
   source:
